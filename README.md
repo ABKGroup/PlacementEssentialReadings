@@ -2,11 +2,13 @@
 
 ### Categories
 - Floorplanning
-- Placement
+- Global Placement
+- Detailed Placement
 
 ### Floorplanning
+- 
 
-### Placement
+### Global Placement
 - C. Cheng, A. B. Kahng, I. Kang and L. Wang, 
 "RePlAce: Advancing Solution Quality and Routability Validation in Global Placement",
 *IEEE TCAD* 38(9) (2019), pp. 1717-1730.
@@ -16,3 +18,6 @@
 - J. Cong, M. Romesis and M. Xie,
 "Optimality, scalability and stability study of partitioning and placement algorithms",
 *Proc. ISPD*, 2003, pp. 88-94.
+
+### Detailed Placement
+- 
