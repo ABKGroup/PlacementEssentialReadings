@@ -11,7 +11,7 @@
 ### Global Placement
 - C. Cheng, A. B. Kahng, I. Kang and L. Wang, 
 "RePlAce: Advancing Solution Quality and Routability Validation in Global Placement",
-*IEEE TCAD* 38(9) (2019), pp. 1717-1730.
+*IEEE TCAD* 38(9) (2019), pp. 1717-1730. [(Link)](https://vlsicad.ucsd.edu/Publications/Journals/j126.pdf)
 - C. -C. Chang, J. Cong and M. Xie,
 "Optimality and scalability study of existing placement algorithms",
 *Proc. ASP-DAC*, 2003, pp. 612-627.
