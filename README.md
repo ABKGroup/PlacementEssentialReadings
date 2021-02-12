@@ -1,5 +1,9 @@
 # Placement: An Essential Reading List
 
+### Categories
+- Floorplanning
+- Placement
+
 #### RePlAce
 C. Cheng, A. B. Kahng, I. Kang and L. Wang, 
 "RePlAce: Advancing Solution Quality and Routability Validation in Global Placement",
