@@ -48,8 +48,7 @@ Rectangle-packing by the Sequence-pair", *IEEE TCAD* 15(12) (1996), pp. 1518-152
 and its Applications", *Proc. DAC*, 1999, pp. 268-273. [(Link)](https://ieeexplore.ieee.org/document/781324)
 - T.-C. Chen and Y.-W. Chang, “Modern Floorplanning Based on B*-tree and Fast Simulated
 Annealing", *IEEE TCAD* 25(4) (2006), pp. 637-650. [(Link)](https://ieeexplore.ieee.org/document/1610730)
-- D. F. Wong and C. L. Liu, “A New Algorithm for Floorplan Design", *Proc. DAC*, 1986, pp.101-
-107. [(Link)](https://ieeexplore.ieee.org/document/1586075)
+- D. F. Wong and C. L. Liu, “A New Algorithm for Floorplan Design", *Proc. DAC*, 1986, pp.101-107. [(Link)](https://ieeexplore.ieee.org/document/1586075)
 - S. N. Adya and I. L. Markov, “Fixed-outline Floorplanning Through Better Local Search", *Proc.
 ICCD*, 2001, pp. 328-333. [(Link)](https://ieeexplore.ieee.org/document/955047)
 - C. J. Alpert, T. Chan, D. J. Huang, A. B. Kahng, I. Markov, P. Mulet and K. Yan, “Faster Minimization
