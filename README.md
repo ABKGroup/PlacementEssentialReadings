@@ -121,12 +121,4 @@ Automated Analog IC Layout Leveraging Human and Machine Intelligence.”, *Proc.
 Datapaths", *Proc. ISPD*, 1997, pp. 42-47. [(Link)](https://dl.acm.org/doi/10.1145/267665.267677)
 - T. T. Ye and G. D. Micheli, “Data Path Placement with Regularity", *Proc. ICCAD*, 2000, pp. 264-270. [(Link)](https://ieeexplore.ieee.org/document/896484)
 - S. Arikati and R. Varadarajan, “A Signature Based Approach to Regularity Extraction," *Proc. ICCAD*, 1997, pp. 542-545. [(Link)](https://ieeexplore.ieee.org/document/643592)
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
-
-
+- Andrew B. KahngJens LienigIgor L. MarkovJin Hu, "VLSI Physical Design: From Graph Partitioning to Timing Closure". [(Link)](https://link.springer.com/book/10.1007/978-90-481-9591-6)
