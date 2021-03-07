@@ -108,13 +108,19 @@ A Survey”, *ACM TODAES* (2021), pp. 1-44. [(Link)](https://arxiv.org/abs/2102.
 - Y. Bengio, A. Lodi and A. Prouvost, “Machine Learning for Combinatorial Optimization: a
 Methodological Tour d’Horizon”, *Eur. J. Oper. Res.* 290(2) (2021), pp. 405-421. [(Link)](https://arxiv.org/abs/2102.03357)
 - R. Sutton, “The Bitter Lesson" *blog post*, March 13, 2019. [(Link)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
+- OpenROAD. [(Link)](https://github.com/The-OpenROAD-Project)
+- R. Dreslinski, D. Wentzloff, M. Fayazi, K. Kwon, D. Blaauw, D. Sylvester, B. Calhoun, M.
+Coltella and D. Urquhart, “Fully-Autonomous SoC Synthesis using Customizable Cell-Based
+Synthesizable Analog Circuits”, 2019, [(GitHub Link)](https://github.com/idea-fasoc/fasoc) [(Link)](https://apps.dtic.mil/sti/citations/AD1075802)
+- K. Kunal, M. Madhusudan, A. K. Sharma,W. Xu, S. M. Burns, R. Harjani, J. Hu, D. A. Kirkpatrik
+and S. Sapatnekar, “ALIGN: Open-Source Analog Layout Automation from the Ground Up”,
+*Proc. DAC*, 2019, pp. 1-4. [(GitHub Link)](https://github.com/ALIGN-analoglayout/ALIGN-public) [(Link)](https://ieeexplore.ieee.org/document/8807057)
+- B. Xu, K. Zhu, M. Liu, Y. Lin, S. Li, X. Tang, N. Sun and D. Z. Pan, “Magical: Toward Fully
+Automated Analog IC Layout Leveraging Human and Machine Intelligence.”, *Proc. ICCAD*, 2019, pp. 1-8. [(GitHub Link)](https://github.com/magical-eda/MAGICAL) [(Link)](https://ieeexplore.ieee.org/document/8942060)
+- R. X. T. Nijssen and C. A. J. van Eijk, “Regular Layout Generation of Logically Optimized
+Datapaths", *Proc. ISPD*, 1997, pp. 42-47. [(Link)](https://dl.acm.org/doi/10.1145/267665.267677)
+- T. T. Ye and G. D. Micheli, “Data Path Placement with Regularity", *Proc. ICCAD*, 2000, pp. 264-270. [(Link)](https://ieeexplore.ieee.org/document/896484)
+- S. Arikati and R. Varadarajan, “A Signature Based Approach to Regularity Extraction," *Proc. ICCAD*, 1997, pp. 542-545. [(Link)](https://ieeexplore.ieee.org/document/643592)
 -  [(Link)]()
 -  [(Link)]()
 -  [(Link)]()
