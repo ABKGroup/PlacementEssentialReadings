@@ -24,5 +24,5 @@
 
 ### Paper List
 - I. L. Markov, J. Hu and M. Kim, “Progress and Challenges in VLSI Placement Research",
-*Proc. ICCAD*, 2012, pp. 275-282. [(Link)] (https://ieeexplore.ieee.org/document/7295553)
+*Proc. ICCAD*, 2012, pp. 275-282. [(Link)](https://ieeexplore.ieee.org/document/7295553)
 
