@@ -94,15 +94,20 @@ Global Optimizations”, *OR Letts.* 16(2) (1994), pp. 101-113. [(Link)](https:/
 Algorithm: NSGA-II”, *IEEE Trans. Evol. Comp.* 6(2) (2002), pp. 182-197. [(Link)](https://ieeexplore.ieee.org/document/996017)
 - A. B. Kahng and S. Mantik, “On Mismatches Between Incremental Optimizers and Instance
 Perturbations in Physical Design Tools", *Proc. ICCAD*, 2000, pp. 17-21. [(Link)](https://vlsicad.ucsd.edu/Publications/Conferences/113/c113.pdf)
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
+- O. Coudert, J. Cong, S. Malik and M. Sarrafzadeh, “Incremental CAD”, *Proc. ICCAD*, 2000, pp. 236-244. [(Link)](https://dl.acm.org/doi/10.5555/602902.602956)
+- T.-B. Chan, A. B. Kahng and M. Woo, “Revisiting Inherent Noise Floors for Interconnect Prediction", *Proc. SLIP*, 2020. [(Link)](https://vlsicad.ucsd.edu/Publications/Conferences/380/c380.pdf)
+- C. J. Alpert, S. K. Karandikar, Z. Li, G.-J. Nam, S. T. Quay, H. Ren, C. N. Sze, P. G. Villarrubia
+and M. C. Yildiz, “Techniques for Fast Physical Synthesis", *Proc. IEEE* 95(3) (2007), pp. 573-599. [(Link)](https://ieeexplore.ieee.org/abstract/document/4167765)
+- IEEE CEDA Design AutomationWebiNar (DAWN) Event 1: Machine Learning For EDA. [(Link)](https:
+//ieee-ceda.org/presentation/webinar/dawn-machine-learning-eda)
+- ACM/IEEE Workshop on Machine Learning for CAD (MLCAD). [(Link)](http://mlcad.itec.kit.edu/)
+- R. Puri, “Engineering the Future of AI for Enterprises”, ICCAD keynote, 2020. [(Link)]()
+- G. Huang, J. Hu, Y. He, J. Liu, M. Ma, Z, Shen, J.Wu, Y. Xu, H. Zhang, K. Zhong, X. Ning, Y. Ma,
+H. Yang, B. Yu, H. Yang and Y. Wang, “Machine Learning for Electronic Design Automation:
+A Survey”, *ACM TODAES* (2021), pp. 1-44. [(Link)](https://arxiv.org/abs/2102.03357)
+- Y. Bengio, A. Lodi and A. Prouvost, “Machine Learning for Combinatorial Optimization: a
+Methodological Tour d’Horizon”, *Eur. J. Oper. Res.* 290(2) (2021), pp. 405-421. [(Link)](https://arxiv.org/abs/2102.03357)
+- R. Sutton, “The Bitter Lesson" *blog post*, March 13, 2019. [(Link)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 -  [(Link)]()
 -  [(Link)]()
 -  [(Link)]()
