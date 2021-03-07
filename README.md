@@ -68,11 +68,18 @@ Iterative Local Refinement, and a Hybrid Net Model", *IEEE TCAD* 24(5) (2005), p
 Algorithm with Placement Congestion Control", *Proc. ASP-DAC*, 2007, pp.135-140. [(Link)](https://ieeexplore.ieee.org/document/4196021)
 - M. Pan and C. Chu, “IPR: An Integrated Placement and Routing Algorithm", *Proc. DAC*, 2007,
 pp. 59-62. [(Link)](https://ieeexplore.ieee.org/document/4261144)
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
+- M. Hsu, Y. Chen, C. Huang, S. Chou, T. Lin, T. Chen and Y. Chang, “NTUplace4h: A Novel
+Routability-Driven Placement Algorithm for Hierarchical Mixed-Size Circuit Designs", *IEEE
+TCAD* 33(12) (2014), pp. 1914-1927. [(Link)](https://ieeexplore.ieee.org/document/6951861)
+- J. A. Roy, D. A. Papa, S. N. Adya, H. H. Chan, A. N. Ng, J. F. Lu and I. L. Markov, “Capo: Robust
+and Scalable Opensource Min-cut Floorplacer”, *Proc. ISPD*, 2005, pp. 224-226. [(Link)](https://dl.acm.org/doi/10.1145/1055137.1055184)
+- J. A. Roy, D. A. Papa and I. L. Markov, “Capo: Congestion-driven Placement for Standard-cell
+and RTL Netlists with Incremental Capability", *Modern Circuit Placement*, Springer, 2007. [(Link)](https://link.springer.com/chapter/10.1007/978-0-387-68739-1_5)
+- J. Lu, H. Zhuang, P. Chen, H. Chang, C. Chang, Y.Wong, L.Sha, D. Huang, Y. Luo, C. Teng and
+C. Cheng, “ePlace-MS: Electrostatics-Based Placement for Mixed-Size Circuits", *IEEE TCAD*
+34(5) (2015), pp.685-698. [(Link)](https://ieeexplore.ieee.org/document/7008518)
+- C. Cheng, A. B. Kahng, I. Kang and L. Wang, “RePlAce: Advancing Solution Quality and
+Routability Validation in Global Placement", *IEEE TCAD* 38(9) (2019), pp. 1717-1730. [(Link)](https://vlsicad.ucsd.edu/Publications/Journals/j126.pdf)
 -  [(Link)]()
 -  [(Link)]()
 -  [(Link)]()
