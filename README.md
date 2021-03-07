@@ -80,6 +80,42 @@ C. Cheng, “ePlace-MS: Electrostatics-Based Placement for Mixed-Size Circuits",
 34(5) (2015), pp.685-698. [(Link)](https://ieeexplore.ieee.org/document/7008518)
 - C. Cheng, A. B. Kahng, I. Kang and L. Wang, “RePlAce: Advancing Solution Quality and
 Routability Validation in Global Placement", *IEEE TCAD* 38(9) (2019), pp. 1717-1730. [(Link)](https://vlsicad.ucsd.edu/Publications/Journals/j126.pdf)
+- A. B. Kahng, “Machine Learning Applications in Physical Design: Recent Results and Directions",
+*Proc. ISPD*, 2018, pp. 68-73. [(Link)](https://vlsicad.ucsd.edu/Publications/Conferences/356/c356.pdf)
+- A. B. Kahng, “Reducing Time and Effort in IC Implementation: A Roadmap of Challenges and
+Solutions", *Proc. DAC*, 2018, pp. 1-6. [(Link)](https://vlsicad.ucsd.edu/Publications/Conferences/360/c360.pdf)
+- A. B. Kahng, “MLCAD Today and Tomorrow: Learning, Optimization and Scaling", *MLCAD
+Workshop*, Nov. 2020. [(Keynote Link)](https://www.youtube.com/watch?v=o__VF3yUhyc)
+- D. Aldous and U. Vazirani, ““Go with the Winners” Algorithms”, *Proc. FOCS*, 1994, pp. 492–501. [(Link)](https://ieeexplore.ieee.org/document/365742)
+- K. D. Boese, A. B. Kahng and S. Muddu, “A New Adaptive Multistart Technique for Combinatorial
+Global Optimizations”, *OR Letts.* 16(2) (1994), pp. 101-113. [(Link)](https://vlsicad.ucsd.edu/Publications/Journals/j15.pdf)
+- J. Kennedy and R. Eberhart, “Particle Swarm Optimization”, *Proc. ICNN* Vol. 4, 1995, pp. 1942-1948. [(Link)](https://ieeexplore.ieee.org/document/488968)
+- K. Deb, A. Pratap, S. Agarwal and T. Meyarivan, “A Fast and Elitist Multiobjective Genetic
+Algorithm: NSGA-II”, *IEEE Trans. Evol. Comp.* 6(2) (2002), pp. 182-197. [(Link)](https://ieeexplore.ieee.org/document/996017)
+- A. B. Kahng and S. Mantik, “On Mismatches Between Incremental Optimizers and Instance
+Perturbations in Physical Design Tools", *Proc. ICCAD*, 2000, pp. 17-21. [(Link)](https://vlsicad.ucsd.edu/Publications/Conferences/113/c113.pdf)
 -  [(Link)]()
 -  [(Link)]()
 -  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+-  [(Link)]()
+
+
