@@ -58,11 +58,17 @@ of Linear Wirelength for Global Placement", *Proc. ISPD*, 1997, pp.4-11. [(Link)
 to VLSI layout”, *Proc. ASP-DAC*, 1999, pp. 225-228. [(Link)](https://vlsicad.ucsd.edu/Publications/Conferences/88/c88.pdf)
 - A. A. Kennings and I. L. Markov, “Analytical Minimization of Halfperimeter Wirelength”, *Proc.
 ASP-DAC*, 2000, pp. 179-184. [(Link)](https://dl.acm.org/doi/10.1145/368434.368600)
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
--  [(Link)]()
+- W. Naylor, R. Donelly, and L. Sha, “Non-Linear Optimization System and Method for Wire
+Length and Delay Optimization for an Automatic Electric Circuit Placer”, *U.S. Patent* 6301693,
+Oct. 2001. [(Link)](https://patents.google.com/patent/US6301693B1/en)
+- B. Hu and M. Marek-Sadowska, “FAR: Fixed-pointsAddition and Relaxation Based Placement",
+*Proc. ISPD*, 2002, pp.161–166. [(Link)](https://dl.acm.org/doi/abs/10.1145/505388.505426)
+- N. Viswanathan and C. Chu, “FastPlace: Efficient Analytical Placement Using Cell Shifting,
+Iterative Local Refinement, and a Hybrid Net Model", *IEEE TCAD* 24(5) (2005), pp. 722-733. [(Link)](https://ieeexplore.ieee.org/document/1424175)
+- N. Viswanathan, M. Pan and C. Chu, “FastPlace 3.0: A Fast Multilevel Quadratic Placement
+Algorithm with Placement Congestion Control", *Proc. ASP-DAC*, 2007, pp.135-140. [(Link)](https://ieeexplore.ieee.org/document/4196021)
+- M. Pan and C. Chu, “IPR: An Integrated Placement and Routing Algorithm", *Proc. DAC*, 2007,
+pp. 59-62. [(Link)](https://ieeexplore.ieee.org/document/4261144)
 -  [(Link)]()
 -  [(Link)]()
 -  [(Link)]()
