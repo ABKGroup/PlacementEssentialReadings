@@ -1,7 +1,7 @@
 # Placement: An Essential Reading List
 
 ### Categories
-- Overviews and Surveys
+- [Overviews and Surveys](#overviewsandsurveys)
 - Floorplanning and Floorplacement
 - Global Placement
 - Detailed Placement
