@@ -17,6 +17,11 @@
 *Proc. ICCAD*, 2012, pp. 275-282. [(Link)](https://dl.acm.org/doi/10.1145/2429384.2429441)
 - I. L. Markov, J. Hu and M. Kim, “Progress and Challenges in VLSI Placement Research", *Proc.
 of the IEEE*, 103(11) (2015), pp. 1985-2003. [(Link)](https://ieeexplore.ieee.org/document/7295553)
+- C. J. Alpert, S. K. Karandikar, Z. Li, G.-J. Nam, S. T. Quay, H. Ren, C. N. Sze, P. G. Villarrubia
+and M. C. Yildiz, “Techniques for Fast Physical Synthesis", *Proc. IEEE* 95(3) (2007), pp. 573-599. [(Link)](https://ieeexplore.ieee.org/abstract/document/4167765)
+- OpenROAD. [(Link)](https://github.com/The-OpenROAD-Project)
+- Andrew B. Kahng, Jens Lienig, Igor L. Markov, Jin Hu, "VLSI Physical Design: From Graph Partitioning to Timing Closure". [(Link)](https://link.springer.com/book/10.1007/978-90-481-9591-6)
+
 
 ### Floorplanning and Floorplacement
 - A. N. Ng, I. L. Markov, R. Aggarwal and V. Ramachandran, “Solving Hard Instances of Floorplacement",
@@ -40,12 +45,6 @@ Rectangle-packing by the Sequence-pair", *IEEE TCAD* 15(12) (1996), pp. 1518-152
 - C. Cheng, A. B. Kahng, I. Kang and L. Wang, 
 "RePlAce: Advancing Solution Quality and Routability Validation in Global Placement",
 *IEEE TCAD* 38(9) (2019), pp. 1717-1730. [(Link)](https://vlsicad.ucsd.edu/Publications/Journals/j126.pdf)
-- C. -C. Chang, J. Cong and M. Xie,
-"Optimality and scalability study of existing placement algorithms",
-*Proc. ASP-DAC*, 2003, pp. 612-627. [(Link)](https://ieeexplore.ieee.org/document/1195099)
-- J. Cong, M. Romesis and M. Xie,
-"Optimality, scalability and stability study of partitioning and placement algorithms",
-*Proc. ISPD*, 2003, pp. 88-94. [(Link)](https://cadlab.cs.ucla.edu/~cong/papers/p045-cong.pdf)
 - C. J. Alpert, T. Chan, D. J. Huang, A. B. Kahng, I. Markov, P. Mulet and K. Yan, “Faster Minimization
 of Linear Wirelength for Global Placement", *Proc. ISPD*, 1997, pp.4-11. [(Link)](https://vlsicad.ucsd.edu/Publications/Conferences/65/c65.pdf)
 - A. A. Kennings and I. L. Markov, “Analytical Minimization of Halfperimeter Wirelength”, *Proc.
@@ -62,6 +61,15 @@ Contest and Benchmark Suite", *Proc. ISPD*, 2005, pp. 216-220. [(Link)](https://
 - W. Naylor, R. Donelly, and L. Sha, “Non-Linear Optimization System and Method for Wire
 Length and Delay Optimization for an Automatic Electric Circuit Placer”, *U.S. Patent* 6301693,
 Oct. 2001. [(Link)](https://patents.google.com/patent/US6301693B1/en)
+- N. Viswanathan and C. Chu, “FastPlace: Efficient Analytical Placement Using Cell Shifting,
+Iterative Local Refinement, and a Hybrid Net Model", *IEEE TCAD* 24(5) (2005), pp. 722-733. [(Link)](https://ieeexplore.ieee.org/document/1424175)
+- N. Viswanathan, M. Pan and C. Chu, “FastPlace 3.0: A Fast Multilevel Quadratic Placement
+Algorithm with Placement Congestion Control", *Proc. ASP-DAC*, 2007, pp.135-140. [(Link)](https://ieeexplore.ieee.org/document/4196021)
+- M. Hsu, Y. Chen, C. Huang, S. Chou, T. Lin, T. Chen and Y. Chang, “NTUplace4h: A Novel
+Routability-Driven Placement Algorithm for Hierarchical Mixed-Size Circuit Designs", *IEEE
+TCAD* 33(12) (2014), pp. 1914-1927. [(Link)](https://ieeexplore.ieee.org/document/6951861)
+- J. A. Roy, D. A. Papa and I. L. Markov, “Capo: Congestion-driven Placement for Standard-cell
+and RTL Netlists with Incremental Capability", *Modern Circuit Placement*, Springer, 2007. [(Link)](https://link.springer.com/chapter/10.1007/978-0-387-68739-1_5)
 
 
 ### Detailed Placement
@@ -84,6 +92,12 @@ to VLSI layout”, *Proc. ASP-DAC*, 1999, pp. 225-228. [(Link)](https://vlsicad.
 
 
 ### Suboptimality Quantification
+- C. -C. Chang, J. Cong and M. Xie,
+"Optimality and scalability study of existing placement algorithms",
+*Proc. ASP-DAC*, 2003, pp. 612-627. [(Link)](https://ieeexplore.ieee.org/document/1195099)
+- J. Cong, M. Romesis and M. Xie,
+"Optimality, scalability and stability study of partitioning and placement algorithms",
+*Proc. ISPD*, 2003, pp. 88-94. [(Link)](https://cadlab.cs.ucla.edu/~cong/papers/p045-cong.pdf)
 
 
 ### Machine Learning
@@ -91,33 +105,24 @@ to VLSI layout”, *Proc. ASP-DAC*, 1999, pp. 225-228. [(Link)](https://vlsicad.
 Reinforcement Learning", *arXiv 2004.10746*, 2020. [(Link)](https://arxiv.org/abs/2004.10746)
 - Y. Lin, S. Dhar,W. Li, H. Ren, B. Khailany and D. Z. Pan, “DREAMPIace: Deep Learning Toolkit-
 Enabled GPU Acceleration for Modern VLSI Placement", *Proc. DAC*, 2019, pp. 1-6. [(Link)](https://ieeexplore.ieee.org/document/8807076)
-
-
-### Heuristic and Metaheuristic
-
-
-### Analog
-
-
-### Data Path
-
-### Paper List
-
-- N. Viswanathan and C. Chu, “FastPlace: Efficient Analytical Placement Using Cell Shifting,
-Iterative Local Refinement, and a Hybrid Net Model", *IEEE TCAD* 24(5) (2005), pp. 722-733. [(Link)](https://ieeexplore.ieee.org/document/1424175)
-- N. Viswanathan, M. Pan and C. Chu, “FastPlace 3.0: A Fast Multilevel Quadratic Placement
-Algorithm with Placement Congestion Control", *Proc. ASP-DAC*, 2007, pp.135-140. [(Link)](https://ieeexplore.ieee.org/document/4196021)
-- M. Hsu, Y. Chen, C. Huang, S. Chou, T. Lin, T. Chen and Y. Chang, “NTUplace4h: A Novel
-Routability-Driven Placement Algorithm for Hierarchical Mixed-Size Circuit Designs", *IEEE
-TCAD* 33(12) (2014), pp. 1914-1927. [(Link)](https://ieeexplore.ieee.org/document/6951861)
-- J. A. Roy, D. A. Papa and I. L. Markov, “Capo: Congestion-driven Placement for Standard-cell
-and RTL Netlists with Incremental Capability", *Modern Circuit Placement*, Springer, 2007. [(Link)](https://link.springer.com/chapter/10.1007/978-0-387-68739-1_5)
 - A. B. Kahng, “Machine Learning Applications in Physical Design: Recent Results and Directions",
 *Proc. ISPD*, 2018, pp. 68-73. [(Link)](https://vlsicad.ucsd.edu/Publications/Conferences/356/c356.pdf)
 - A. B. Kahng, “Reducing Time and Effort in IC Implementation: A Roadmap of Challenges and
 Solutions", *Proc. DAC*, 2018, pp. 1-6. [(Link)](https://vlsicad.ucsd.edu/Publications/Conferences/360/c360.pdf)
 - A. B. Kahng, “MLCAD Today and Tomorrow: Learning, Optimization and Scaling", *MLCAD
 Workshop*, Nov. 2020. [(Keynote Link)](https://www.youtube.com/watch?v=o__VF3yUhyc)
+- IEEE CEDA Design AutomationWebiNar (DAWN) Event 1: Machine Learning For EDA. [(Link)](https://ieee-ceda.org/presentation/webinar/dawn-machine-learning-eda)
+- ACM/IEEE Workshop on Machine Learning for CAD (MLCAD). [(Link)](http://mlcad.itec.kit.edu/)
+- R. Puri, “Engineering the Future of AI for Enterprises”, ICCAD keynote, 2020. [(Link)]()
+- G. Huang, J. Hu, Y. He, J. Liu, M. Ma, Z, Shen, J.Wu, Y. Xu, H. Zhang, K. Zhong, X. Ning, Y. Ma,
+H. Yang, B. Yu, H. Yang and Y. Wang, “Machine Learning for Electronic Design Automation:
+A Survey”, *ACM TODAES* (2021), pp. 1-44. [(Link)](https://arxiv.org/abs/2102.03357)
+- Y. Bengio, A. Lodi and A. Prouvost, “Machine Learning for Combinatorial Optimization: a
+Methodological Tour d’Horizon”, *Eur. J. Oper. Res.* 290(2) (2021), pp. 405-421. [(Link)](https://arxiv.org/abs/2102.03357)
+- R. Sutton, “The Bitter Lesson" *blog post*, March 13, 2019. [(Link)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+
+
+### Heuristic and Metaheuristic
 - D. Aldous and U. Vazirani, ““Go with the Winners” Algorithms”, *Proc. FOCS*, 1994, pp. 492–501. [(Link)](https://ieeexplore.ieee.org/document/365742)
 - K. D. Boese, A. B. Kahng and S. Muddu, “A New Adaptive Multistart Technique for Combinatorial
 Global Optimizations”, *OR Letts.* 16(2) (1994), pp. 101-113. [(Link)](https://vlsicad.ucsd.edu/Publications/Journals/j15.pdf)
@@ -128,19 +133,9 @@ Algorithm: NSGA-II”, *IEEE Trans. Evol. Comp.* 6(2) (2002), pp. 182-197. [(Lin
 Perturbations in Physical Design Tools", *Proc. ICCAD*, 2000, pp. 17-21. [(Link)](https://vlsicad.ucsd.edu/Publications/Conferences/113/c113.pdf)
 - O. Coudert, J. Cong, S. Malik and M. Sarrafzadeh, “Incremental CAD”, *Proc. ICCAD*, 2000, pp. 236-244. [(Link)](https://dl.acm.org/doi/10.5555/602902.602956)
 - T.-B. Chan, A. B. Kahng and M. Woo, “Revisiting Inherent Noise Floors for Interconnect Prediction", *Proc. SLIP*, 2020. [(Link)](https://vlsicad.ucsd.edu/Publications/Conferences/380/c380.pdf)
-- C. J. Alpert, S. K. Karandikar, Z. Li, G.-J. Nam, S. T. Quay, H. Ren, C. N. Sze, P. G. Villarrubia
-and M. C. Yildiz, “Techniques for Fast Physical Synthesis", *Proc. IEEE* 95(3) (2007), pp. 573-599. [(Link)](https://ieeexplore.ieee.org/abstract/document/4167765)
-- IEEE CEDA Design AutomationWebiNar (DAWN) Event 1: Machine Learning For EDA. [(Link)](https:
-//ieee-ceda.org/presentation/webinar/dawn-machine-learning-eda)
-- ACM/IEEE Workshop on Machine Learning for CAD (MLCAD). [(Link)](http://mlcad.itec.kit.edu/)
-- R. Puri, “Engineering the Future of AI for Enterprises”, ICCAD keynote, 2020. [(Link)]()
-- G. Huang, J. Hu, Y. He, J. Liu, M. Ma, Z, Shen, J.Wu, Y. Xu, H. Zhang, K. Zhong, X. Ning, Y. Ma,
-H. Yang, B. Yu, H. Yang and Y. Wang, “Machine Learning for Electronic Design Automation:
-A Survey”, *ACM TODAES* (2021), pp. 1-44. [(Link)](https://arxiv.org/abs/2102.03357)
-- Y. Bengio, A. Lodi and A. Prouvost, “Machine Learning for Combinatorial Optimization: a
-Methodological Tour d’Horizon”, *Eur. J. Oper. Res.* 290(2) (2021), pp. 405-421. [(Link)](https://arxiv.org/abs/2102.03357)
-- R. Sutton, “The Bitter Lesson" *blog post*, March 13, 2019. [(Link)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
-- OpenROAD. [(Link)](https://github.com/The-OpenROAD-Project)
+
+
+### Analog
 - R. Dreslinski, D. Wentzloff, M. Fayazi, K. Kwon, D. Blaauw, D. Sylvester, B. Calhoun, M.
 Coltella and D. Urquhart, “Fully-Autonomous SoC Synthesis using Customizable Cell-Based
 Synthesizable Analog Circuits”, 2019, [(GitHub Link)](https://github.com/idea-fasoc/fasoc) [(Link)](https://apps.dtic.mil/sti/citations/AD1075802)
@@ -149,8 +144,10 @@ and S. Sapatnekar, “ALIGN: Open-Source Analog Layout Automation from the Groun
 *Proc. DAC*, 2019, pp. 1-4. [(GitHub Link)](https://github.com/ALIGN-analoglayout/ALIGN-public) [(Link)](https://ieeexplore.ieee.org/document/8807057)
 - B. Xu, K. Zhu, M. Liu, Y. Lin, S. Li, X. Tang, N. Sun and D. Z. Pan, “Magical: Toward Fully
 Automated Analog IC Layout Leveraging Human and Machine Intelligence.”, *Proc. ICCAD*, 2019, pp. 1-8. [(GitHub Link)](https://github.com/magical-eda/MAGICAL) [(Link)](https://ieeexplore.ieee.org/document/8942060)
+
+
+### Data Path
 - R. X. T. Nijssen and C. A. J. van Eijk, “Regular Layout Generation of Logically Optimized
 Datapaths", *Proc. ISPD*, 1997, pp. 42-47. [(Link)](https://dl.acm.org/doi/10.1145/267665.267677)
 - T. T. Ye and G. D. Micheli, “Data Path Placement with Regularity", *Proc. ICCAD*, 2000, pp. 264-270. [(Link)](https://ieeexplore.ieee.org/document/896484)
 - S. Arikati and R. Varadarajan, “A Signature Based Approach to Regularity Extraction," *Proc. ICCAD*, 1997, pp. 542-545. [(Link)](https://ieeexplore.ieee.org/document/643592)
-- Andrew B. Kahng, Jens Lienig, Igor L. Markov, Jin Hu, "VLSI Physical Design: From Graph Partitioning to Timing Closure". [(Link)](https://link.springer.com/book/10.1007/978-90-481-9591-6)
