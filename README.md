@@ -2,15 +2,15 @@
 
 ### Categories
 - [Overviews and Surveys](#overviews-and-surveys)
-- Floorplanning and Floorplacement
-- Global Placement
-- Detailed Placement
-- Regularization
-- Suboptimality Quantification
-- Machine Learning
-- Heuristic and Metaheuristic
-- Analog
-- Datapath
+- [Floorplanning and Floorplacement](#floorplanning-and-floorplacement)
+- [Global Placement](#global-placement)
+- [Detailed Placement](#detailed-placement)
+- [Regularization](#regularization)
+- [Suboptimality Quantification](#suboptimality-quantification)
+- [Machine Learning](#machine-learning)
+- [Heuristic and Metaheuristic](#heuristic-and-metaheuristic)
+- [Analog](#analog)
+- [Datapath](#data-path)
 
 ### Overviews and Surveys
 - I. L. Markov, J. Hu and M. Kim, “Progress and Challenges in VLSI Placement Research",
