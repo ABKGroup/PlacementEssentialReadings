@@ -40,10 +40,14 @@ Routability Validation in Global Placement", *IEEE TCAD* 38(9) (2019), pp. 1717-
 C. Cheng, “ePlace-MS: Electrostatics-Based Placement for Mixed-Size Circuits", *IEEE TCAD*
 34(5) (2015), pp.685-698. [(Link)](https://ieeexplore.ieee.org/document/7008518)
 
+
 ### Detailed Placement
 - Y. Lin,W. Li, J. Gu, H. Ren, B. Khailany and D. Z. Pan, “ABCDPlace: Accelerated Batch-Based
 Concurrent Detailed Placement on Multithreaded CPUs and GPUs", *IEEE TCAD* 39(12) (2020),
 pp.5083-5096. [(Link)](https://ieeexplore.ieee.org/document/8982049)
+- M. Pan and C. Chu, “IPR: An Integrated Placement and Routing Algorithm", *Proc. DAC*, 2007,
+pp. 59-62. [(Link)](https://ieeexplore.ieee.org/document/4261144)
+
 
 ### Paper List
 - I. L. Markov, J. Hu and M. Kim, “Progress and Challenges in VLSI Placement Research",
@@ -71,8 +75,6 @@ Oct. 2001. [(Link)](https://patents.google.com/patent/US6301693B1/en)
 Iterative Local Refinement, and a Hybrid Net Model", *IEEE TCAD* 24(5) (2005), pp. 722-733. [(Link)](https://ieeexplore.ieee.org/document/1424175)
 - N. Viswanathan, M. Pan and C. Chu, “FastPlace 3.0: A Fast Multilevel Quadratic Placement
 Algorithm with Placement Congestion Control", *Proc. ASP-DAC*, 2007, pp.135-140. [(Link)](https://ieeexplore.ieee.org/document/4196021)
-- M. Pan and C. Chu, “IPR: An Integrated Placement and Routing Algorithm", *Proc. DAC*, 2007,
-pp. 59-62. [(Link)](https://ieeexplore.ieee.org/document/4261144)
 - M. Hsu, Y. Chen, C. Huang, S. Chou, T. Lin, T. Chen and Y. Chang, “NTUplace4h: A Novel
 Routability-Driven Placement Algorithm for Hierarchical Mixed-Size Circuit Designs", *IEEE
 TCAD* 33(12) (2014), pp. 1914-1927. [(Link)](https://ieeexplore.ieee.org/document/6951861)
