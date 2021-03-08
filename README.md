@@ -36,6 +36,9 @@ of Linear Wirelength for Global Placement", *Proc. ISPD*, 1997, pp.4-11. [(Link)
 ASP-DAC*, 2000, pp. 179-184. [(Link)](https://dl.acm.org/doi/10.1145/368434.368600)
 - C. Cheng, A. B. Kahng, I. Kang and L. Wang, “RePlAce: Advancing Solution Quality and
 Routability Validation in Global Placement", *IEEE TCAD* 38(9) (2019), pp. 1717-1730. [(Link)](https://vlsicad.ucsd.edu/Publications/Journals/j126.pdf)
+- J. Lu, H. Zhuang, P. Chen, H. Chang, C. Chang, Y.Wong, L.Sha, D. Huang, Y. Luo, C. Teng and
+C. Cheng, “ePlace-MS: Electrostatics-Based Placement for Mixed-Size Circuits", *IEEE TCAD*
+34(5) (2015), pp.685-698. [(Link)](https://ieeexplore.ieee.org/document/7008518)
 
 ### Detailed Placement
 - Y. Lin,W. Li, J. Gu, H. Ren, B. Khailany and D. Z. Pan, “ABCDPlace: Accelerated Batch-Based
@@ -75,9 +78,6 @@ Routability-Driven Placement Algorithm for Hierarchical Mixed-Size Circuit Desig
 TCAD* 33(12) (2014), pp. 1914-1927. [(Link)](https://ieeexplore.ieee.org/document/6951861)
 - J. A. Roy, D. A. Papa and I. L. Markov, “Capo: Congestion-driven Placement for Standard-cell
 and RTL Netlists with Incremental Capability", *Modern Circuit Placement*, Springer, 2007. [(Link)](https://link.springer.com/chapter/10.1007/978-0-387-68739-1_5)
-- J. Lu, H. Zhuang, P. Chen, H. Chang, C. Chang, Y.Wong, L.Sha, D. Huang, Y. Luo, C. Teng and
-C. Cheng, “ePlace-MS: Electrostatics-Based Placement for Mixed-Size Circuits", *IEEE TCAD*
-34(5) (2015), pp.685-698. [(Link)](https://ieeexplore.ieee.org/document/7008518)
 - A. B. Kahng, “Machine Learning Applications in Physical Design: Recent Results and Directions",
 *Proc. ISPD*, 2018, pp. 68-73. [(Link)](https://vlsicad.ucsd.edu/Publications/Conferences/356/c356.pdf)
 - A. B. Kahng, “Reducing Time and Effort in IC Implementation: A Roadmap of Challenges and
