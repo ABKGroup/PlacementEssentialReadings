@@ -34,8 +34,6 @@ and Scalable Opensource Min-cut Floorplacer”, *Proc. ISPD*, 2005, pp. 224-226.
 of Linear Wirelength for Global Placement", *Proc. ISPD*, 1997, pp.4-11. [(Link)](https://vlsicad.ucsd.edu/Publications/Conferences/65/c65.pdf)
 - A. A. Kennings and I. L. Markov, “Analytical Minimization of Halfperimeter Wirelength”, *Proc.
 ASP-DAC*, 2000, pp. 179-184. [(Link)](https://dl.acm.org/doi/10.1145/368434.368600)
-- C. Cheng, A. B. Kahng, I. Kang and L. Wang, “RePlAce: Advancing Solution Quality and
-Routability Validation in Global Placement", *IEEE TCAD* 38(9) (2019), pp. 1717-1730. [(Link)](https://vlsicad.ucsd.edu/Publications/Journals/j126.pdf)
 - J. Lu, H. Zhuang, P. Chen, H. Chang, C. Chang, Y.Wong, L.Sha, D. Huang, Y. Luo, C. Teng and
 C. Cheng, “ePlace-MS: Electrostatics-Based Placement for Mixed-Size Circuits", *IEEE TCAD*
 34(5) (2015), pp.685-698. [(Link)](https://ieeexplore.ieee.org/document/7008518)
